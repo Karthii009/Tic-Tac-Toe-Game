@@ -1,0 +1,8 @@
+Copy the code into a Python file, e.g., tic_tac_toe.py.
+Run the script using Python:
+bash
+python tic_tac_toe.py
+>> Game Features <<
+Players take turns to place their marks (X or O) on the board.
+The game checks for a winner after every move.
+A message box will announce the winner or if the game ends in a tie.
